@@ -1,4 +1,6 @@
 3rd moudule learning GIT HUB (git intro, create new repo)
+Git all Bug issue module nao-7.
+
 
 {
 echo "# we-development-course-with-jhankerhabub" >> README.md
