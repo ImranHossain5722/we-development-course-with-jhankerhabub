@@ -1,0 +1,11 @@
+3rd moudule learning GIT HUB (git intro, create new repo)
+
+{
+echo "# we-development-course-with-jhankerhabub" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ImranHossain5722/we-development-course-with-jhankerhabub.git
+git push -u origin main
+.}
