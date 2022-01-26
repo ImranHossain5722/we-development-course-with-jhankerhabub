@@ -1,0 +1,25 @@
+17-module-1st-video:-itnor javascript
+
+17-module-2nd-video:- intor what is varibale 5- things(var, variable name = value ; )
+
+17-module-3rd-video:- vaiavble type {Numeric (0123456789), string (abcdefgshijkalmnopqerdtuvwxyz), Boolean(true,or false) }
+
+17-module-3rd-video:- how you do  JavaScript Keyword, Variable  name naming convention and best practice
+
+17-module-4th-video:-
+
+17-module-5th-video:-
+
+17-module-6th-video:-
+
+17-module-7th-video:-
+
+17-module-8th-video:-
+
+17-module-9th-video:-
+
+17-module-10th-video:-
+
+17-module-4th-video:-
+
+17-module-4th-video:-

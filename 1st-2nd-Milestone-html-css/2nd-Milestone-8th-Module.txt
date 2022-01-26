@@ -1,0 +1,14 @@
+2-Milestone-8-m-1st-video-: css layout intro
+2-Milestone-8-m-2nd-video-: Felxbox,Flexbox-end,flex-start,  flex derction,
+ justify-content, align-item,
+2-Milestone-8-m-3rd-video-:login form, flexible,nav using flexbox
+2-Milestone-8-m-4th-video-:grid layout, template colum ,gid gap 
+ (aksing intervew about grid diffrence with flexbox)
+2-Milestone-8-m-5th-video-: making responsive calender using grid
+
+2-Milestone-8-m-6th-video-:responsiveness using media query,and flexbox (asking interview what is media query Ans:{media query is used to apply a set of styles based on the browser's characteristics inculding width,height, or screen resolution.})
+
+2-Milestone-8-m-7th-video-: position relative, flexbox
+2-Milestone-8-m-8th-video-:transiton, transform 
+2-Milestone-8-m-9th-video-: css properties learing ( tutorialrepublic.com)
+2-Milestone-8-m-10th-video-: all summery

@@ -1,0 +1,20 @@
+3th-M-15-Module-1st-Video-: iroduce tailwind farmwork
+
+3th-M-15-Module-2nd-Video-: Compare Tailwind classes with bootstrap classes
+
+3th-M-15-Module-3rd-Video-:Tailwind Flexbox and compare with bootstrap
+
+3th-M-15-Module-4th-Video-:Explore Tailwind grid with row and column span
+
+3th-M-15-Module-5th-Video-: Penguin fashion-project- Using  tailwind, extension setup
+
+3th-M-15-Module-6th-Video-:
+
+3th-M-15-Module-7th-Video-:
+
+3th-M-15-Module-8th-Video-:Setup custom card and card grid using tailwind css
+
+
+3th-M-15-Module-9th-Video-:
+
+3th-M-15-Module-10th-Video-:How to select Right CSS framework for your project
