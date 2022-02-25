@@ -8,18 +8,15 @@
 
 17-module-4th-video:-
 
-17-module-5th-video:-
+17-module-5th-video:- Mathematical operation(/,*,-,+, {modulus=%} )
 
-17-module-6th-video:-
+17-module-6th-video:-  (advanced) Mathematical operation shorthand
 
-17-module-7th-video:-
+17-module-7th-video:-  (advanced) String Concatenation, Integer float parseInt parseFloat type conversion
 
-17-module-8th-video:-
+17-module-8th-video:- Different variable types and use toFixed with parseFloat
 
-17-module-9th-video:-
 
-17-module-10th-video:-
+17-module-9th-video:- Summary and remainder modulus
 
-17-module-4th-video:-
 
-17-module-4th-video:-

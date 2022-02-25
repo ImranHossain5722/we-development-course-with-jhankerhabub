@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+    <title>Helllo Js</title>
+</head>
+<header>
+    welcome to our blog website
+</header>
+<body>
+  <main id="mainBlog">   
+    <article class ="articleClass">
+        <h3>
+            our blog 1
+        </h3>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate vitae nam architecto porro laboriosam facere impedit beatae reiciendis sint dignissimos commodi, molestias consequatur itaque suscipit minus eum iusto rerum odio?</p>
+    </article>
+    <article class ="articleClass">
+        <h3 id="blog2">
+             our blog 2
+        </h3>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate vitae nam architecto porro laboriosam facere impedit beatae reiciendis sint dignissimos commodi, molestias consequatur itaque suscipit minus eum iusto rerum odio?</p>
+    </article>
+
+    <article class ="articleClass">
+        <h3 id="third">
+            our blog 3
+        </h3>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate vitae nam architecto porro laboriosam facere impedit beatae reiciendis sint dignissimos commodi, molestias consequatur itaque suscipit minus eum iusto rerum odio?</p>
+    </article>
+
+
+  </main>
+
+     <script>
+    //     const blogTitle = document.getElementsByTagName('h3');
+    //         for (const h3 of blogTitle ) {
+
+    //     console.log(h3.innerText);
+    //   }
+
+       const blogId = document.getElementById
+       ('blog2');
+        blogId.style.textAlign='center';
+       const third = document.getElementById('third');
+              third.innerText ='Update buy js';
+              third.style.backgroundColor ='gray';
+              third.style.padding ='5px';
+              //end
+
+                //create a element by javascript.
+                    // step-1 crateElement.
+                const article =document.createElement('article');
+                article.classList.add ('articleClass');
+                const h3 = document.createElement('h3');
+                h3.innerText ='Our blog 4 add by javaScript';
+                const p =document.createElement('p');  
+                p.innerText ='Our blog 4 add by javaScript through createElement'
+                //step-2 where i add createElement.
+
+                article.appendChild(h3);
+                article.appendChild(p);
+
+                // step-3 set parent of article
+                const blogSection = document.getElementById ('mainBlog');
+                 blogSection.appendChild(article);
+                //end
+
+                // explore getElementsByClassName
+            
+            const articleBlog = document.getElementsByClassName('articleClass');
+                for( const aClass of articleBlog  ){
+
+                    aClass.style.border ='2px solid orange';
+                    aClass.style.borderRadius ='10px';
+                    aClass.style.padding ='10px';
+                    
+                }
+                        //end
+
+
+
+
+
+
+
+    </script>
+
+    <script src="js/myjs.js"></script>
+
+    </body>
+</html>

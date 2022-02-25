@@ -1,5 +1,5 @@
 //  string variable 
-var name = imran;
+var name = "mark";
 // numeric variable 
 var age = 25;
 // variable boolean
@@ -8,7 +8,10 @@ var ans = false;
 
 //Simple Mathematical operations in javascript
 
-var aggPrice = 50 ;
-var penPrice = 54;
-console.log(aggPrice);
+var aggPrice = "99.5";
+var penPrice = 15;
+console.log(aggPrice + penPrice);
 
+// var one = 17;
+// var two = 5;
+// console.log(one%two)

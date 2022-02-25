@@ -1,0 +1,59 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Event Bubble </title>
+ </head>
+ <body>
+     
+     <section>
+        <h2>Event Bubble</h2>
+        <ul>
+            <li class="item">Lorem, ipsum.</li>
+            <li class="item">Officiis, quo!</li>
+            <li class="item">Quisquam, maxime?</li>
+            <li class="item">Ex, harum!</li>
+            <li class="item">Nisi, excepturi?</li>
+            <li class="item">Non, veniam.</li>
+        </ul>
+     </section>
+     <section>
+        <h2> Event delegate and benefit of Event bubble
+        </h2>
+        <ul Id="ul" class="ul-delegate">
+
+            <li class="item">Lorem, ipsum.</li>
+            <li class="item">Officiis, quo!</li>
+            <li class="item">Quisquam, maxime?</li>
+            <li class="item">Ex, harum!</li>
+            <li class="item">Nisi, excepturi?</li>
+            <li class="item">Non, veniam.</li>
+        </ul>
+     </section>
+        
+
+
+      <script>
+          //delegate
+             const items = document.getElementsByClassName('item')
+
+            for (const SingleItem of items){
+
+                SingleItem.addEventListener('click',function(event){
+
+                document.getElementById ('ul').removeChild(SingleItem);
+
+                })
+            }
+
+
+
+
+
+
+      </script>
+    <script src="js/evetn.js"></script>
+ </body>
+ </html>
