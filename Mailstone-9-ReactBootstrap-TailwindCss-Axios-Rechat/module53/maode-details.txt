@@ -1,0 +1,11 @@
+mailston-9 er moduel -53 er  wrok celo ema-jhone shopping ka react route de update kora .
+
+
+ai kaj kora hoysa  mailstone-8 er module-48-folder er modda 
+
+toba shope page 1ta bug asa .
+
+
+ bug to holo page reload deala  shop page oderSummey 
+
+thaka sob data clear hoya jai but locla storage thaka . 

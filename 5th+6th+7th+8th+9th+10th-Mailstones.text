@@ -1,0 +1,464 @@
+24-1 Module Introduction and what is JavaScript
+
+24-2 Create Script tag and connect external Script file
+
+24-3 What is DOM (Document Object Model)
+
+24-4 Get different HTML elements in JS by using tag name
+
+24-5 Capture and change Element by using getElementById
+
+24-6 Explore getElementsByClassName and querySelectorAll
+
+24-7 NodeList, htmlcollection, setAttribute, parentNode, childnodes
+
+24-8 Create HTML elements using Javascript and appendChild
+
+
+******************Start 25 Module***********************
+
+
+25-1 What is Event, different types of event in web
+
+25-2 Add onclick handler directly or via javascript
+
+25-3 Different ways to use addEventListener on a button
+
+25-4 Most common ways to set Event Handlers
+
+25-5 Create a comment box and display comment
+
+25-6 Simple github like delete confirmation button
+
+25-7 (semi-advanced) Event bubble and Stop propagating
+
+25-8 (advanced) Event delegate and benefit of Event bubble
+
+
+******************************-26-Module****************
+
+26-1 Project overview, Tailwind review text align text color
+
+26-2 Login form, input field, password text field, submit
+
+26-3 Add event listener navigate to another page
+
+26-4 Deposit, withdraw, balance area using grid layout
+
+26-5 Create Deposit and withdraw amount Input Fields
+
+26-6 Get User deposit and set deposit total value
+
+26-7 Update deposit and balance and handle string add;
+
+26-8 Money withdraw and reduce balance for withdraw
+
+
+***************************S-27-Moudle**************************
+
+27-1 Module overview and project setup
+27-2 Get User deposit and set deposit total value
+27-3 Update deposit and balance and handle string add
+
+27-4 Money withdraw and reduce balance for withdraw
+27-5 (advanced) Common function to reduce code repeat
+27-6 (advanced) Share one function between two input field
+
+27-7 (advanced) Deposit and withdraw update with one function
+
+****************************S-28-Module************************
+
+28-2 shopping cart handle decrease and update price
+28-3 Calculate phone cost using the same shared 
+
+28-4 Get all product sub total cost, tax and grand total
+28-5 Pin matcher overview, Generate pin and display it
+28-6 Use event bubble to create calculator and clear
+28-7 Verify match and use function to reduce duplicate
+28-8 Pin Matcher overview and daily challenge
+
+*************************S-29-Module************************
+
+29-1 String comparison using toLowerCase toUpperCase
+
+29-2 Apply Search includes, indexOf, startswith, endswith
+29-3 How to split, slice, substr, substring, concat, join
+29-5 Get part of an array and insert elements using slice, splice
+
+29-6 Have fun with sort and reverse a javascript array
+29-7 Arugment
+29-8 Different types of Error object and explore Try-catch
+
+29-9 A simple introduction to Date object in JavaScript
+
+30.Assiganment
+30.5 Bonues viedos 5
+************************Start-6-Mailstone******************
+*************************31-Module*****************************
+
+31-1 Simple Recap of JavaScript six core parts (mailston-4-recap)
+
+31-2 Recap of DOM Manipulation and event handler (mailston-5-recap)
+
+31-3 Breakup with var to have a relationship with Let and const
+31-4 Function default parameter for not provided values
+31-5 Template string, multiple line string, dynamic string
+31-6 Arrow function, multiple parameter, function body
+31-7 More Arrow functions and big arrow function
+31-8 Spread operator, array max, copy arrays
+31-9 Module Summary and ES6 Recap
+
+
+***********************Module-32**************************
+
+32-1 recap
+ 
+32-2 Destructuring Object to extract values to variables
+32-3 (advanced) Array Destructuring, nested object Optional chaining
+32-4 Array map to do one line loop magic
+32-5 Map string array, array of objects map, foreach
+32-6 (advanced) Implement filter, find on an array of objects
+
+32-7 (advanced) Class, constructor, method, create object from class
+
+32-8 (advanced) Inheritance, extends class, super, class method
+
+32-9 (advanced) Prototypical inheritance and module summary
+
+**********32.5-Pratice module************
+
+**********************Start--33-Module************************
+
+33-1 Module Introduction and What is an API
+33-2 Intro to JSON, JSON Structure, parse, stringify
+33-3 JSON placeholder, GET data, display data on UI
+33-4 Load more data, more APIs, send data to function
+
+33-5 Dynamically display loaded data on your website
+
+33-6 Load posts and display on the website with CSS
+33-7 GET, POST, PATCH, DELETE, CRUD, GET Vs POST
+33-8 Debug API, Network tab,Status code, headers, bad API
+
+33-9 Module Summary and two homeworks
+
+***********************-Start-Module-34-************************
+
+34-1 Basic API concept recap with Kanye West
+34-2 (advanced) Handle and display Nested API data
+34-3 International Travel, Display countries name, capital
+34-4 (advanced) Call dynamic API, load dynamic data to display
+
+
+***********************-Start-Module-35-*******************
+35-1 Module Overview, Dynamic data types
+35-2 Primitive data type and non-primitive data type
+35-3 Different Truthy and Falsy values in JavaScript
+35-3 Different Truthy and Falsy values in JavaScript
+35-4 Null Vs Undefined, different ways you will get undefined
+35-5 double equal (==) vs triple equal (===), implicit conversion
+35-6 Block scope, global scope, Hoisting
+35-7 (advanced) Closure, encapsulation, private variable
+35-8 (advanced) Callback function and pass different functions
+35-9 Summery All
+
+***********************-Start-Module-36-*******************
+
+36-2 Object method property review
+36-3 Keys, values, entries, delete, seal, freeze
+36-4 Loop through an object using for in, for of, object entries
+36-5 (advanced) Compare objects, referential integrity
+36-6 (advanced) Use bind to borrow method from another object
+36-7 (advanced) Difference between bind, call and applync
+36-9 Module summary and checklist
+
+*******************************************Start-Bonuse-37-5***************************
+
+37_5-1 Get API key and load temperature data by city name
+37_5-2 Display temperature, city, dynamic weather icon
+37_5-3 Understanding closure and return multiples from function
+37_5-4 (advanced) Hoisting, block scope, scope chain
+37_5-5 Transfer assignment private repo to your github private repo
+
+
+***********************************Mailston-7-Mosule-38-Srart******************************
+
+
+38-0 Milestone overview
+38-1 Module Introduction and how internet works
+38-2 How Browser works, DOM tree, Render Tree
+38-3 JavaScript Engine V8 Internal mechanism
+38-4 setTimeout simple Asynchronous JS using
+38-5 Recognize fetch as an Asynchronous activity
+38-6 setInterval and clearInterval with x++ and ++x
+38-7 (advanced) JavaScript event loop and concurrency (watch a video for google 26:00 minuts)
+38-8 Integrate chrome devtool console with VS Code
+
+38-9 Module summary and HTTP layers
+
+*******************************Start-M-39-***************************************
+
+39-1 Module Overview, BOM vs DOM, Browser API
+
+39-2 Browser alert, confirm, prompt with examples
+39-3 Location, URL parts, query string, href, hash, assign, reload
+39-4 History api to navigate back, forward, go, history length
+39-5 (advanced) Cookies, dev tool application tab, get cookie value
+39-6 local storage, session storage, storage info in browser storage
+39-7 Dynamically set and read from local, session storage
+39-8 (advanced) retrieve local storage value and display them
+39-8 (advanced) retrieve local storage value and display them
+39-9 Module Summary, ContentEditable, chrome restart
+
+*******************************Start-M-40-***************************************
+
+40-1 Module overview, Dev tool overview, settings, shortcut keys
+40-2 Element tab, HTML event listener, accessibility list
+40-3 Console tab, preserve log, log levels, console api
+40-4 Sources tab, break point, call stack, event break
+40-5 Debug fancy slider and fix image display, console table
+40-6 More debug to fix slider to slide by getting duration
+40-7 Fix negative duration and how to read others code
+40-8 Performance tab, memory tab, Lighthouse tab
+40-9 Module Summary, Try out Create React APP
+
+*********************************start-M-41*************************************************
+41-1 Module Introduction and Dev tool Element tab
+41-2 Dev Tool Console Source Tab Review
+41-3 Explore Salary App and try to add a Record
+41-4 Logical Not, double Not, fix add to Record to chart
+41-5 Lost with errors and trying to find ways to fix it
+41-6 Fix Duplicate names on the chart and display chart
+41-7 Explains Unique name generation for duplicate data
+41-8 Simple Introduction to Regular expression
+
+
+
+*********************************Start-M-42**************************************************
+note: this-42- modolue are last 36, 37, 38, 39,40,41  revission (1- er vetora sob) 
+
+
+42-1 Six JavaScript Fundamentals that you need to know
+42-2 template string, arrow function, spread operator
+42-3 Array methods map filter find forEach
+42-4 Array and object Destructuring, optional chaining
+42-5 JSON, Fetch, keys, values, array add or remove using dots
+42-6 (advanced) truthy, false Ternary operator, shortcut and or
+42-7 Explore Localstorage and session storage with JSON
+42-8 Module summary Function এর default parameter
+
+****43 assignment 
+***********************************Start-M-43.5-Bonuse-Module***************************
+
+43_5-1 Create a simple slider with using javaScript
+43_5-2 How to approach a debugging session with an error
+43_5-3 Use Console log to debug and fix the slider
+43_5-4 Implement Search Box click on keyboard enter with debug
+43_5-5 Use Elimination technique for debugging
+
+************************************Start-Mailstone-8-**************************************
+***********************************Start-Module-44*****************************************
+44-0 Milestone overview
+44-1 Module overview and modern application core parts
+44-2 Web component, 4 types of component, identify component
+44-3 Template, dynamically create HTML elements based on data
+44-4 Single Page Application (SPA), Performance benefit
+44-5 Routing, Route parameter, Routing in React
+44-6 Explore destructuring and send data to html elements using props
+44-7 Website state, state management, purpose of state
+44-8 Install React App and explore folder structure and edit
+44-9 Module Summary and concept recap
+
+
+****************************************Start-Module-45*************************************
+
+45-1: Module Introduction, Create React App, 6 core concepts
+45-2 JSX, Dynamic content, Dynamic Style in React
+45-3 Create Component, return HTML from a component
+45-4 Pass dynamic data to components, props in react
+45-5 (advanced) Create multiple components from an array of objects
+45-6 Concept Recap, JSX, components, props, display array of objects
+45-7 (advanced) State, component state hook and set state method
+45-8 (advanced) Load dynamic data, API call useEffect integrate state
+
+*****************************************Start-Module-46************************************
+46-1 Module Introduction, load countries using useEffect
+46-2 Display countries in a simple way, Folder Structure
+46-3 React Extension Pack and component with css file
+46-4 Components inside the folder structure and connect them
+46-5 Create child component and pass data via props
+46-6 (advanced) Pass multiple data to a child component
+46-7 (advanced) add unique key for mapping components
+46-8 Build your react app and host your react app in Netlify
+46-9 Module Summary and recap use bootstrap in React
+
+
+
+***********************************Start-Module-47****************************************
+
+
+47-1 Module Introduction Create React App under the hood
+47-2 What is JSX, React Component, babel transpiler
+47-3 Components and how props works, unidirectional data flow
+47-4 (advanced) How states works, asynchronous, console state
+47-5 How React Hook works, send state via props , props vs state
+47-6 What is React, when to use it, react vs angular vs vue
+47-7 How react works, Render, virtual dom, diff algorithm, fiber
+47-8 React Class Component, Component lifecycle and rerender
+47-9 Module Summary, recap, Properties vs attributes
+
+
+
+
+*****************************Start-Module-47.5*********************************************
+
+
+47_5-1 Module Introduction ES6 Modules simple import, export
+47_5-2 ES6 Modules, import default, relative path
+47_5-3 Create and Load Fake data, json generator, online api
+47_5-4 How to Create Event handler with parameters
+47_5-5 Intro to Local storage to store data just one item
+47_5-6 Store multiple data in an Object with local storage
+47_5-8 Module Summary and simple intro to array reduce
+
+
+***********************************star-Module-48********************************************
+
+
+48-1 Module Introduction, site resources, figma
+48-2 Header Component, logo position, set nav menu
+48-3 Shop Component Layout, load data and set state
+48-4 Product Component, component layout, display data
+48-5 Style Product Cart, style debug and button position
+48-6 (advanced) set eventhandler, pass eventhandler to child
+48-7 (advanced) Cart state setup, update cart and total on click
+48-8 Install external packages, react-fontawesome, display icon
+48-9 Simple React SPA module summary
+48-10 (Bonus) Deploy Simple React website to Netlify
+
+
+**********************************Start-Module-49-*****************************************
+49-1 Module Introduction and simple ema-john recap
+49-2 Run Github clone react project, Create Cart Component
+49-3 Calculate shopping cart price, shipping and tax with toFixed
+49-4 Setting the cart data on the localStorage for future retrieve
+49-5 (advanced) Load cart from local storage, find product
+49-6 (advanced) Display local storage cart to the UI
+49-7 (super advanced) Handle quantity from storage to cart
+49-8 (advanced) Add to the cart with quantity and explanation
+49-9 Module summary, deploy, code recap
+
+50= assignment 
+
+******************************************Stsrt-Module-50-5*****************************
+
+50_5-1 When to use Array and when to use Object
+50_5-2 Read, Write data stored in local storage
+50_5-3 A very simple way to add or remove key to an object
+50_5-4 Event handler with data and set data from Local Storage
+50_5-5 Get From local storage and handle quantity property
+
+
+*****************************************Start-Mailston-9**********************************
+
+*****************************************Star-Module-51**********************************
+
+51-0: Milestone Overview
+51-1: Module Introduction Use Bootstrap CDN in React
+51-2 Install React Bootstrap in your react application
+51-3 Setup tailwind css with Create React App
+51-4 Responsive Navbar using react and tailwind
+51-5 Simple Pricing Option using React and Tailwind
+51-6 Responsive pricing card with Tailwind and Hero icons
+51-7 Use reachart to draw any type of chart using React
+51-8 Axios, data extraction and data processing bar chart
+51-9 summary all module
+
+
+*******************************************Star-Module-52**********************************
+
+
+52-1 Module Introduction, install React Router, Project Setup
+52-2 Create Simple Route and simple router setup
+52-3 Load Users, display users, dynamic link, use Navigate
+52-4 Set Header, Nav, Create Link, display active route
+52-5 Recap Router, route, path, component, not found, link
+52-6 Create route with some fixed and some dynamic part
+52-7 React route echand load data based on dynamic route
+52-8 (advanced) Nested route with useEffect dependency Injection
+52-9 Module Summary and Recap React Route for Rest Countries
+
+
+**************************************start-Module-52.5**************************************
+52_5-1 Practice Meal db with search and dynamic route params
+
+
+*******************************************Star-Module-53**********************************
+
+53-1 Install React router and implement simple router setup
+53-2 Recap React Router setup and intro to order review page
+53-3 Write useState and useEffect in a different file and import it
+53-4 Create useCart with products dependency and use it
+53-5 Create review page structure and Display Shopping cart
+53-6 Implement Review Item style with a lot of flex
+53-7 More style of Review item and apply Remove Item handler
+53-8 Make Data consistent across UI and explore children props
+53-9 Module Summary, use navigate and recap custom hook
+
+
+*********************************Star-Module-54-Context_ApI-*****************************
+54-1 Another Recap of React Router Setup
+54-2 Recap Custom hook and load t-shirt data
+54-3 Recap Remove from cart and not allow duplicate
+54-4 Explore 4 ways to add Conditional Rendering in React
+54-5 Grandfather Create a Family Tree and share same data
+54-6 Prop Drilling to pass data to a many level components
+54-7 Simple Introduction to Context API to avoid Prop drilling
+54-8 Recap Context API and introduction to react dev tool
+54-9 Deploy react router project and fix router reload issue
+
+
+55=Assigment-9
+*********************************Star-Module-55.5*****************************************
+55_5-1 Recap useState hook with simple example
+55_5-2 Connection between useEffect and useState
+55_5-3 Use custom hook to share hook code among components
+55_5-4 Implement Search with simple code
+55_5-5 Use Effect with dependency List
+
+
+************************************Mailstone-10*********************************************
+*************************************Start*Module-56***************************************
+
+56-0 Milestone Overview
+56-1 Module Introduction, authentication vs Authorization
+56-2 Create firebase project and Install Firebase SDK
+56-3 set Firebase configuration and initialize firebase auth
+56-4 Sign in with google, open google login popup
+56-5 Recap google popup sign in process with 11 steps
+56-6 Display logged in user info, Sign out, toggle sign in, sign out
+56-7 Implement github login system
+56-8 Module Summary and display user info
+
+
+*************************************Start*Module-57***************************************
+
+57-1 Login, Registration, Sign up, Sign in, project setup
+57-2 Simple form, input, change, blur, submit, preventDefault
+57-3 Use Bootstrap Form and get user email and password
+57-4 Create new user using email and password on firebase
+57-5 Login form field validation using regular expression, show error
+57-6 Toggle Registration and login, implement sign in with email password
+57-7 Handle Email Verification, Forget Password or Reset Password
+57-8 Module Summary and Update user name to firebase
+****
+57_5-1 Practice firebase authentication Implement Facebook authentication
+
+
+*************************************Start*Module-57***************************************
+
+58-1 Module Introduction and Basic Project Setup
+
+
+
+
