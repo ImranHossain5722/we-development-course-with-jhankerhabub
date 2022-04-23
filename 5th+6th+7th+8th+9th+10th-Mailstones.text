@@ -455,10 +455,97 @@ note: this-42- modolue are last 36, 37, 38, 39,40,41  revission (1- er vetora so
 57_5-1 Practice firebase authentication Implement Facebook authentication
 
 
-*************************************Start*Module-57***************************************
+*************************************Start*Module-58***************************************
 
 58-1 Module Introduction and Basic Project Setup
+58-2 Create Use Firebase hook for shared authentication
+58-3 Add Google Sign using custom hook with on State Change
+58-4 Implement Sign out and display user logged in User name
+58-5 Explore and Install React Firebase Hooks
+58-6 Use React Firebase Hook to manage user authentication
+58-7 Introduction to Protected Route and Require Auth
+58-8 Module Summary and Implement Auth Redirect
+
+*************************************Start*Module-59***************************************
+
+59-1 Module Introduction firebase setup and git clone
+59-2 Create Login component and style Login form
+59-3 Style sign up component and access email, password
+59-4 Install React firebase hook implement create user
+59-5 Implement Login and redirect user after login
+59-6 Create Require Auth and Navigate from location
+59-7 Implement Sign out and Create a shipment form
+59-8 Module Summary and list to implement auth
+59-9 (bonus video) Host your react app to firebase
+
+
+*************************************Start*Module-60***************************************
+
+
+60-1 Module Overview and simple review of React
+60-3 Collect, Edit, optimize and host images for your website
+60-4 Load fake data map services to display single services
+60-5 Make Services Responsive using CSS media query
+60-6 Build Responsive React website using Bootstrap
+60-7 React Bootstrap for responsive and image slider, banner
+60-8 Module Summary, Add navbar and set footer dynamic date
+
+*************************************Start*Module-61***************************************
+61-1 Module Overview Responsive Header sticky top
+60-2 Create Project Component setup and router setup
+61-3 Navigate to services, 404 page, Login component
+61-4 Style Login form use useRef to access input value
+61-5 Create Register form and style it
+61-6 (optional) Environment variable for Firebase in Create React App
+61-7 Email password based authentication with react firebase hooks
+
+
+*************************************Start*Module-62***************************************
+
+62-1 Module overview and social login initial setup
+62-2 Style social login and share social login component
+62-3 Implement Google login system
+62-4 Implement Github login and allow multiple account
+62-5 Handle Error related to login, accept terms and conditions
+62-6 Conditional css class and conditional disabled
+62-7 (advanced) Verify Email set display name and async await
+62-8 Fix Reload redirect to login page Display Toast message
+62-9 (bonus) Deploy to firebase
+
+62_5-1 Practice Red onion or Travel Guru or both
+
+63= assignment=10 
+
+****************************************start-module-63.5********************************
+63_5-1 Set favicon and search for title to be displayed on the website
+
+63_5-2 Set Dynamic page title based on Route using react helmet async
+63_5-3 Do not allow protected route without email verification
+63_5-4 How to display a location and a Marker on a Google Map
+63_5-5 Display Dynamic Driving Direction and Route on Google Map
 
 
 
+*****************************************Start-Mailstone-11********************************
 
+*****************************************Start-Module-64********************************
+
+64-1 Module overview Why Node, node vs other language
+64-2 Getting started with Node and Express, your first api
+64-3 (Recap) Node express and install nodemon for auto restart
+64-4 Create dynamic api, api parameter, access params
+64-5 Use fetch to load data from server, middleware, handle cors
+64-6 Create React form and Post API and send data to the server
+64-7 Display POST data on the UI and explore query parameter
+64-8 Module summary, git ignore for node project
+
+
+*****************************************Start-Module-65-Mongodb********************************
+65-1 Module Overview, node recap, mongodb vs MySql
+65-2 Create mongodb atlas account and Connect to database
+65-3 Send data to database using mongodb insertOne
+65-4 (Recap) Async await, try catch and mongodb connection
+65-5 Send user data to the server and get response to client
+65-6 Save data from React Client side to mongo database
+65-7 Load and display data from database, create delete button
+65-8 Delete a user from the database
